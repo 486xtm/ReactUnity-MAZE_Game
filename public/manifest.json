@@ -1,5 +1,7 @@
 {
   "url": "http://localhost:3000",
   "name": "Sealife",
-  "iconUrl": "https://photon-sol.vercel.app/images/ava7.jpg"
+  "symbol": "Sea",
+  "iconUrl": "https://photon-sol.vercel.app/images/solscan.png",
+  "description": "This is Sealife's NFT"
 }
